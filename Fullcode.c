@@ -355,8 +355,3 @@ int main()
 
 
 
-//
-//1.) bugs: change any int to floats
-//2.) feature: add features like product ID codes and maybe award points or redeem points for more discount
-//for points. the number of points earned should be equal to the total cost. and to redeem 1 point value is 0.01rs
-//so to redeem 1000 points 1000*0.01 = 10rs off
